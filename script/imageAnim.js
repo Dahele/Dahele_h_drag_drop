@@ -37,5 +37,5 @@
 	puzzleSelectors.forEach(button=> button.addEventListener("click", resetPuzzlePieces));
 
 	//call this function to setup / generate the pieces on load
-	createPuzzlePieces();
+
 })();
