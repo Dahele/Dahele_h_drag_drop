@@ -58,6 +58,16 @@ body {
 	position: relative;
 }
 
+.drop-zone img {
+	width: auto;
+	padding: 0;
+	position: absolute; 
+}
+
+.topleft img{  bottom: 0; right: 0; }
+.topright img{ bottom: 0; }
+.bottomleft img{ right: 0; }
+.bottomright img{ left: : 0; }
 
 header {
 	position: relative;
